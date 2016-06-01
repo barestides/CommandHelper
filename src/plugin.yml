@@ -1,0 +1,4 @@
+name: CommandHelper
+version: 1.0.0
+author: jugglingman456
+main: com.arcaneminecraft.commandhelper.CommandHelper
